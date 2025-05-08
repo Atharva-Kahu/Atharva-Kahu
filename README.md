@@ -4,17 +4,6 @@ Welcome to my GitHub! I’m a graduate student pursuing my Master’s in Informa
 
 ---
 
-## 🎓 Education
-- **University of Texas at Dallas**  
-  Master of Science in Information Technology and Management  
-  *Aug 2023 – May 2025 | GPA: 3.93*
-
-- **Nagpur University**  
-  Bachelor of Engineering in Electronics and Communication  
-  *Aug 2017 – May 2021*
-
----
-
 ## 🛠️ Skills & Technologies
 - **Languages & Databases**: Python, SQL, R, Bash, PostgreSQL, MongoDB  
 - **Cloud & Big Data**: AWS (S3, Lambda, Glue, Athena, Redshift), Apache Spark, Hadoop, Hive, Kafka, Airflow  
@@ -50,6 +39,17 @@ Used **Random Forest** and **Decision Trees** with flight datasets to predict de
 
 ### 🔹 Loan Approval Prediction (Deep Learning)
 Built a neural network using **TensorFlow**, achieving 92% accuracy for loan approval classification. Applied feature engineering, normalization, and early stopping.
+
+---
+
+## 🎓 Education
+- **University of Texas at Dallas**  
+  Master of Science in Information Technology and Management  
+  *Aug 2023 – May 2025 | GPA: 3.93*
+
+- **Nagpur University**  
+  Bachelor of Engineering in Electronics and Communication  
+  *Aug 2017 – May 2021*
 
 ---
 
