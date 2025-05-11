@@ -54,6 +54,5 @@ Built a neural network using **TensorFlow**, achieving 92% accuracy for loan app
 ---
 
 ## 📫 Let's Connect
-- **GitHub**: [github.com/Atharva-Kahu](https://github.com/Atharva-Kahu)  
 - **LinkedIn**: [linkedin.com/in/atharva-kahu](https://linkedin.com/in/atharva-kahu)  
 - **Email**: kahuatharva@gmail.com
